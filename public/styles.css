@@ -1,0 +1,29 @@
+body{
+  background: lavender;
+}
+h3{
+  margin-top: 40px;
+}
+h1,h2,ul,li{
+  text-align: center;
+}
+h1{
+  font-size: 30px;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+h2{
+  font-size: 30px;
+  margin-top: 2%;
+}
+li{
+  list-style: none;
+  margin-bottom: .5%;
+  font-size: 25px;
+}
+input,button{
+  font-size: 25px;
+}
+input{
+  margin-left: 40%;
+}
